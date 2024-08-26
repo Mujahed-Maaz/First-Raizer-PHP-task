@@ -1,0 +1,38 @@
+body
+{
+    list-style: none;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: hwb(208 0% 76%);
+    background-color:rgb(216, 216, 216);
+}
+
+a{
+    color: rgb(255, 115, 0);
+}
+
+.list{
+    margin: auto;
+    color: whitesmoke;
+    max-width: 75%;
+    background-color: rgb(255, 115, 0);
+    margin-bottom: 10px;
+    border-radius: 15px 0 15px  0;
+}
+
+.container
+{
+    color: rgb(216, 216, 216);
+    background-color: hwb(208 0% 76%) ;
+    max-width: 600px;
+    margin:0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    text-decoration: dashed;    
+}
+
+.form-group
+{
+    margin-bottom: 30px;
+}
